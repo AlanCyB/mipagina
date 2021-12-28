@@ -1,0 +1,62 @@
+body{
+
+    background-color: black;
+}
+
+
+h1{
+    text-align: center;
+    color: rgba(226, 199, 44, 0.671);
+    font-size: 400%;
+}
+
+h2{
+    text-align: center;
+    color: goldenrod;
+    -webkit-text-stroke:0cm;
+    font-size: 200%;
+}
+marquee{
+    color: goldenrod;
+    font-size: 200%;
+}
+
+p{
+    background-color: bisque;
+    text-align: center;
+    font-size:200.5%;
+}
+
+p2{
+    text-align: center;
+}
+.menu {
+    width: 90%;
+    max-width: 1000px;
+}
+
+.menu li a{
+    text-decoration: none;
+    color: white;
+    padding: 20px;
+    display: block;
+}
+
+.menu li{
+    display: inline-block;
+    text-align: center;
+}
+
+
+img{
+    max-width: 100%;
+    height: auto;
+    align:center;
+}
+
+table {
+    border: goldenrod 10px solid;
+  }
+  td, th {
+    border: goldenrod 1px solid;
+  }
